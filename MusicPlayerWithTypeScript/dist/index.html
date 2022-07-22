@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./index.css">
+
+    <title>MusicPlayer</title>
+</head>
+<body>
+
+    <div class="mainDiv">
+        <div class="col songInfo">
+            <div class="songName">
+                
+            </div>
+            <div class="artistName">
+
+            </div>
+            <div class="controls">
+                <img class="controlsImg" src="../images/previous.png" onclick="previousSong()" alt=""><img id="playPaused" class="controlsImg" onclick="playPause()" alt=""><img class="controlsImg" src="../images/next-button.png" onclick="nextSong()" alt="">
+            </div>
+            <div class="slider">
+                <audio id="songField">
+                    <source src="" type="audio/mpeg">
+                </audio>
+                <p class="timeStamps" id="currentTime"></p>
+
+                <input type="range" min="1" max="100" value="0" class="sliderBar" id="myRange" onchange="seek()">
+                <p class="timeStamps" id="endTime"></p>
+            </div>
+            
+            <div class="sliderText">
+                <img onclick="volumeDown()" class="volumeIcons" id="volumeDown" src="../images/volume-down.png" alt="">
+                <input type="range" name="" id="audioSlider" min="0" max="100">
+                <img onclick="volumeUp()" class="volumeIcons" id="volumeUp" src="../images/volume.png" alt="">
+            </div>
+        </div>
+        <div class="col songBg">
+            <div class="currentImg">
+                <img id="songImage" src="" alt="">
+            </div>
+        </div>
+    </div>
+
+    <div class="songDiv">
+        
+    </div>
+
+
+
+    <script src="./index.js"></script>
+</body>
+</html>

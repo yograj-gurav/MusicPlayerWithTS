@@ -1,0 +1,83 @@
+[
+    
+    {
+        "id": 1,
+        "songName": "Fight 'Til The End",
+        "artistName": "Jack Savoretti",
+        "songBgImage": "../images/Fight'TilTheEnd.jpg",
+        "songTime": "3:34",
+        "songSrc": "../songs/Fight 'Til the End.mp3"
+    },
+    {
+        "id": 2,
+        "songName": "To The Wonder",
+        "artistName": "AquaLung feat. Kina Grannis",
+        "songBgImage": "../images/ToTheWonder.jpg",
+        "songTime": "3:59",
+        "songSrc": "../songs/To the Wonder (feat. Kina Grannis).mp3"
+    },
+    {
+        "id": 3,
+        "songName": "And Then There Was You",
+        "artistName": "Norah Jones",
+        "songBgImage": "../images/andThenThereWasYou.jpg",
+        "songTime": "3:05",
+        "songSrc": "../songs/And Then There Was You.mp3"
+    },
+    {
+        "id": 4,
+        "songName": "Come Away With Me",
+        "artistName": "Norah Jones",
+        "songBgImage": "../images/ComeAwayWithMe.jpg",
+        "songTime": "8:08",
+        "songSrc": "../songs/Norah Jones - Come Away With Me (Official Music Video).mp3"
+    },
+    {
+        "id": 5,
+        "songName": "Sweet Child O Mine",
+        "artistName": "AC/DC",
+        "songBgImage": "../images/sweet_child_o_mine.png",
+        "songTime": "06:03",
+        "songSrc": "../songs/Guns N' Roses Sweet Child O' Mine l MP3.mp3"
+    },
+    {
+        "id": 6,
+        "songName": "April Showers",
+        "artistName": "ProleteR",
+        "songBgImage": "../images/aprilShowers.jpg",
+        "songTime": "4:31",
+        "songSrc": "../songs/ProleteR - April Showers.mp3"
+    },
+    {
+        "id": 7,
+        "songName": "Paradise City",
+        "artistName": "Guns N' Roses",
+        "songBgImage": "../images/Paradisecity.jpg",
+        "songTime": "6:55",
+        "songSrc": "../songs/Paradise City.mp3"
+    },
+    {
+        "id": 8,
+        "songName": "So This Is Love",
+        "artistName": "Sneha Prakash",
+        "songBgImage": "../images/sothisislove.jpg",
+        "songTime": "2:54",
+        "songSrc": "../songs/So This Is Love _ Sneha.mp3"
+    },
+    {
+        "id": 9,
+        "songName": "Lost In Japan",
+        "artistName": "Shawn Mendes & Zedd",
+        "songBgImage": "../images/LostInJapan.jpg",
+        "songTime": "3:33",
+        "songSrc": "../songs/Shawn Mendes & Zedd   Lost In Japan Original + Remix AUDIO.mp3"
+    },
+    {
+        "id": 10,
+        "songName": "Close To You (Acoustic)",
+        "artistName": "Reneé Dominique",
+        "songBgImage": "../images/closeToYou.jpg",
+        "songTime": "2:51",
+        "songSrc": "../songs/Close To You - The Carpenters (Reneé Dominique cover) [Full HD] lyrics.mp3"
+    }
+]
